@@ -43,7 +43,7 @@ Fengshui theme is designed to work with the latest development builds of Sublime
 
 ### Using Sublime Package Control
 
-If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Fengshui Theme via the `Package Control: Install Package` menu item. The Fengshui Theme package is listed as `Theme - Fengshui` in the packages list.
+This customized version is not on Package Control. If you'd like to use Package Control, see [the original repo](https://github.com/jobedom/fengshui-theme) for directions on using the root theme.
 
 ### Using Git
 
