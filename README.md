@@ -2,6 +2,16 @@
 
 Dark custom UI theme for Sublime Text 2 and Sublime Text 3. Heavily based on [Soda Theme](http://buymeasoda.com/) by Ian Hill.
 
+*Deviations from jobedom/fengshui-theme*
+
+I lightly modified the original fengshui theme by jobedom to fit my tastes a bit more:
+
+- Made the tabs a bit taller so it didn't feel as cramped.
+- Changed sidebar to not use images (use layer0.tint instead)
+- Made sidebar slightly darker so it doesn't blend in with the main content area
+- Overall made labels a bit brighter to increase contrast (and make it more readable for me)
+- Added ability to use Seti UI Icons with the theme. See https://github.com/mrmartineau/SetiUI-Icons-Sublime for information on how to use that icon set
+
 **feng shui**  
 /ˌfɛŋ ˈʃuːi,ˌfʌŋ ˈʃweɪ/  
 _noun_  
