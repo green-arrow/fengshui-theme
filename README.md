@@ -19,13 +19,13 @@ A system of laws considered to govern spatial arrangement and orientation in rel
 
 Work on a canvas as free and clean as possible. Let the water and the air flow.
 
-Project site: [https://github.com/jobedom/fengshui-theme/](https://github.com/jobedom/fengshui-theme)
+Project site: [https://github.com/green-arrow/fengshui-theme/](https://github.com/green-arrow/fengshui-theme)
 
 ## Design
 
-![Fengshui Theme - Screenshot 1](https://raw.githubusercontent.com/jobedom/fengshui-theme/master/screenshots/screenshot1.png)
-![Fengshui Theme - Screenshot 2](https://raw.githubusercontent.com/jobedom/fengshui-theme/master/screenshots/screenshot2.png)
-![Fengshui Theme - Screenshot 3](https://raw.githubusercontent.com/jobedom/fengshui-theme/master/screenshots/screenshot3.png)
+![Fengshui Theme - Screenshot 1](https://raw.githubusercontent.com/green-arrow/fengshui-theme/master/screenshots/screenshot1.png)
+![Fengshui Theme - Screenshot 2](https://raw.githubusercontent.com/green-arrow/fengshui-theme/master/screenshots/screenshot2.png)
+![Fengshui Theme - Screenshot 3](https://raw.githubusercontent.com/green-arrow/fengshui-theme/master/screenshots/screenshot3.png)
 
 ### Scheme and font
 
@@ -53,7 +53,7 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/jobedom/fengshui-theme/ "Theme - Fengshui"
+    git clone https://github.com/green-arrow/fengshui-theme/ "Theme - Fengshui"
 
 ### Download Manually
 
